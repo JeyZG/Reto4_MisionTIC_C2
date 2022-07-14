@@ -22,16 +22,16 @@ public class Reto4_tester {
         // Arrays de prueba del VPL
 
         // Array # 1
-        ArrayList<Cliente> t1 = new ArrayList<Cliente>();
+        ArrayList<Cliente> t1 = new ArrayList<>();
         t1.add(new Cliente("Mateo", "1037543456", 6700, "01/07/2022", "0001"));
 
         // Array # 2
-        ArrayList<Cliente> t2 = new ArrayList<Cliente>();
+        ArrayList<Cliente> t2 = new ArrayList<>();
         t2.add(new Cliente("Luz Di", "32675123", 100, "02/07/2022", "0002"));
         t2.add(new Cliente("John Doe", "81200306", 2300, "02/07/2022", "0003"));
 
         // Array # 3
-        ArrayList<Cliente> t3 = new ArrayList<Cliente>();
+        ArrayList<Cliente> t3 = new ArrayList<>();
         t3.add(new Cliente("Valeria Di", "10367876345", 9653, "03/07/2022", "0004"));
         t3.add(new Cliente("Johan Doe", "1037645345", 3918, "03/07/2022", "0005"));
         t3.add(new Cliente("Maurice Doe", "98765234", 6048, "03/07/2022", "0006"));
@@ -42,7 +42,7 @@ public class Reto4_tester {
         t3.add(new Cliente("Carla Di", "103789762", 2432, "03/07/2022", "0011"));
 
         // Array # 4
-        ArrayList<Cliente> t4 = new ArrayList<Cliente>();
+        ArrayList<Cliente> t4 = new ArrayList<>();
         t4.add(new Cliente("Valeria Di", "10367876345", 3240, "04/07/2022", "0012"));
         t4.add(new Cliente("Johan Doe", "1037645345", 9048, "04/07/2022", "0012"));
         t4.add(new Cliente("Maurice Doe", "98765234", 2310, "04/07/2022", "0013"));
@@ -56,7 +56,7 @@ public class Reto4_tester {
         t4.add(new Cliente("Mateo", "1037543456", 193600, "04/07/2022", "0021"));
 
         // Array # 5
-        ArrayList<Cliente> t5 = new ArrayList<Cliente>();
+        ArrayList<Cliente> t5 = new ArrayList<>();
         t5.add(new Cliente("Valeria Di", "10367876345", 2700, "05/07/2022", "0022"));
         t5.add(new Cliente("Johan Doe", "1037645345", 9500, "05/07/2022", "0022"));
         t5.add(new Cliente("Maurice Doe", "98765234", 300, "05/07/2022", "0022"));
